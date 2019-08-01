@@ -21,12 +21,12 @@ The run_analysis.R script accomplishes the following:
 
 Details about tidydata.txt (# of rows = 180, # of columns = 68)
 
-Subject: 1 - 30
-Activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
-Data: Average of the meana nd standard deviation variables of each feature measured
-All variables in tidydata.txt:
-Activity"
-Subject"
+- Subject: 1 - 30
+- Activity: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+- Data: Average of the meana nd standard deviation variables of each feature measured
+- All variables in tidydata.txt:
+Activity
+Subject
 Time_BodyAccelerometer_Mean.X
 Time_BodyAccelerometer_Mean.Y
 Time_BodyAccelerometer_Mean.Z
